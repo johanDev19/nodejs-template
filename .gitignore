@@ -1,0 +1,10 @@
+node_modules/
+.sass-cache/*
+public/css/.sass-cache/
+public/profile/css/.sass-cache/
+uploads/
+.tmp/
+.vscode/
+.idea/
+package-lock.json
+config.json
